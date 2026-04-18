@@ -2,10 +2,11 @@
  * Project: LDR Circuit
  * Written by: Dustin Hodges (Motbots)
  * Date Created: 04/16/2026
- * Date Last Modified: 04/16/2026
+ * Date Last Modified: 04/18/2026
  * Description: This is part of an example microcontroller circuit for the article
  * on the website titled "Real-World Interface: Connecting Microcontrollers to the
- * Physical World"
+ * Physical World" This code has been updated for the addition of a NPN transistor
+ * and DC-DC buck converter to the circuit.
  *
  * Microcontroller Board: Arduino Uno R3
  * IDE Version: Arduino IDE 2.3.8
@@ -16,6 +17,10 @@
  * -  10kΩ resistor
  * -  Jumper wires
  * -  USB cable
+ * -  NPN transistor
+ * -  1kΩ resistor
+ * -  220Ω resistor
+ * -  DC-DC buck converter
  *
  * Article URL: https://motbots.com/real-world-interfacing-microcontrollers
  * ------------------------------------------------------------------------------
