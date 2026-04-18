@@ -19,6 +19,8 @@ Through hands-on examples using the **ATmega328P (Arduino Uno)** and the **PIC18
 > The goal is simple:  
 > To help you understand not just how to wire a microcontroller, but how to design structured, intelligent firmware that interacts with the real world predictably and reliably.
 
+🔗 Visit: https://motbots.com/embedded-intelligence-series/
+
 ---
 
 ## 💡 Current Projects
@@ -26,6 +28,8 @@ Through hands-on examples using the **ATmega328P (Arduino Uno)** and the **PIC18
 ### 🌞 LDR Sensor Interfacing (Real-World Example)
 
 This project demonstrates how a microcontroller reads analog data from a **Light Dependent Resistor (LDR)** and responds to environmental light changes.
+
+🔗 Visit: https://motbots.com/real-world-interfacing-microcontrollers/
 
 #### Concepts Covered:
 
